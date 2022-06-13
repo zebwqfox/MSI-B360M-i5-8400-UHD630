@@ -34,14 +34,14 @@ EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hacki
 
 ### 关于我的电脑
 
-![关于我的电脑](https://raw.githubusercontent.com/zebwqfox/微星B360M-i5-8400-UHD630/master/images/配置详细图1.png)
+![关于我的电脑](https://raw.githubusercontent.com/zebwqfox/MSI-B360M-i5-8400-UHD630/master/配置详细图1.png)
 
 ### 开启硬解码
 
-![开启硬解码](https://raw.githubusercontent.com/zebwqfox/微星B360M-i5-8400-UHD630/master/images/配置详细图2.png)
+![开启硬解码](https://raw.githubusercontent.com/zebwqfox/MSI-B360M-i5-8400-UHD630/master/配置详细图2.png)
 
 ### 核显信息
-![核显信息](https://raw.githubusercontent.com/zebwqfox/微星B360M-i5-8400-UHD630/master/images/配置详细图3.png)
+![核显信息](https://raw.githubusercontent.com/zebwqfox/MSI-B360M-i5-8400-UHD630/master/配置详细图3.png)
 
 ## Win10 + 黑苹果分区
 
